@@ -1,1 +1,1 @@
-# project1-calculator
+# project-calculator
